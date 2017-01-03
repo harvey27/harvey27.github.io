@@ -1,6 +1,6 @@
 # Site settings
 title: Nick Harvey | Ruby On Rails/React Developer
-description: "A blog about lorem ipsum ..."
+description: "The writings from the mind of Nick Harvey"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
