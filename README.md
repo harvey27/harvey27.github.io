@@ -13,9 +13,9 @@ customize your site in ``_config.yml``
 ```ruby
 
 # Site settings
-description: A blog about lorem ipsum
+description: 
 baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site 
+url: "" # the base hostname &/|| protocol for your site
 
 # User settings
 username: Lorem Ipsum
@@ -29,7 +29,7 @@ disqus_username: loremipsum
 
 ```
 
-## How to create a post ? 
+## How to create a post ?
 
 _posts create a file .md with structure:
 
@@ -42,7 +42,7 @@ image: '/assets/img/post-image.png'
 description: 'about tech'
 tags:
 - lorem
-- tech 
+- tech
 categories:
 - Lorem ipsum
 twitter_text: 'How to speak with Lorem'
